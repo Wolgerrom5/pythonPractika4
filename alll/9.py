@@ -1,5 +1,4 @@
-heights = list(map(int, input().split()))  # читаем высоты башен
-
+heights = list(map(int, input().split()))
 n = len(heights)
 for i in range(n):
     for j in range(n - 1):

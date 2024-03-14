@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a6e744da-c6c7-4541-8672-423a5c7e1ba2" name="Changes" comment="one">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alll/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/alll/4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alll/6.py" beforeDir="false" afterPath="$PROJECT_DIR$/alll/6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alll/9.py" beforeDir="false" afterPath="$PROJECT_DIR$/alll/9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710414089953</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="one">
+      <option name="closed" value="true" />
+      <created>1710416813552</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710416813552</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
