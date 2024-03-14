@@ -1,5 +1,4 @@
 num = int(input())
-
 if num % 100//10 == 1:
     print(num, "попугаев")
 elif num % 10 == 1:

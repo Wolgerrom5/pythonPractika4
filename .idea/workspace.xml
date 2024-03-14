@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a6e744da-c6c7-4541-8672-423a5c7e1ba2" name="Changes" comment="one">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alll/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/alll/2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alll/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/alll/3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alll/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/alll/4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alll/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/alll/5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alll/9.py" beforeDir="false" afterPath="$PROJECT_DIR$/alll/9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,8 @@
     "Python.3.executor": "Run",
     "Python.4.executor": "Run",
     "Python.5.executor": "Run",
+    "Python.6.executor": "Run",
+    "Python.9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -102,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710409772076</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="one">
+      <option name="closed" value="true" />
+      <created>1710414089953</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710414089953</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
